@@ -1,8 +1,8 @@
 .hotelName{
-    font-family: 'open', sans-serif;
     color: #444;
     font-weight: bold;
     font-size: 24px;
     font-variant: small-caps;
     padding: 5px;
+    font-family: 'open', sans-serif;
 }
